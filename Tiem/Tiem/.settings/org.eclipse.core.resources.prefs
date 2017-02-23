@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/DangKi.jsp=UTF-8
+encoding//WebContent/Home.jsp=UTF-8
+encoding//WebContent/LoaiVacxin.jsp=UTF-8
+encoding//WebContent/SuaLoaiVacxin.jsp=UTF-8
+encoding//WebContent/XoaLoaiVacxin.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/controllers/AddVacxin.java=UTF-8
+encoding//src/controllers/DangKiServlet.java=UTF-8
+encoding//src/controllers/HuyDangKyServlet.java=UTF-8
+encoding//src/controllers/LoginServlet.java=UTF-8
